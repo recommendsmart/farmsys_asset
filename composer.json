@@ -1,0 +1,10 @@
+{
+  "name": "drupal/Asset",
+  "type": "drupal-module",
+  "description": "Asset entity type for farmsys.",
+  "homepage": "https://github.com/recommendsmart/farmsys_asset",
+  "keywords": ["Drupal, farmsys"],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
+}
