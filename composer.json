@@ -1,5 +1,5 @@
 {
-  "name": "drupal/farmsys_asset",
+  "name": "farmsys_asset",
   "type": "module",
   "description": "Asset entity type for farmsys.",
   "homepage": "https://github.com/recommendsmart/farmsys_asset",
